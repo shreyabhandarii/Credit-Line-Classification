@@ -1,3 +1,3 @@
 # Credi-Line-Classification
 
-Check the background file for project details
+Check the background file for project details.
